@@ -1,2 +1,8 @@
-# d2_datapipeline
-A collection of pipes on d2 data
+# D2 Data Pipelines
+
+## This repository contains these projects:
+-   Airflow
+-   Pyspark
+-   Scala Spark
+-   Spark Notebooks
+-   Databricks Workspace
